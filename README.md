@@ -4,8 +4,8 @@ get dota2 data and analyse
 1.include TI8 each match result
 ## graph
 1. use wordcloud make presence of each hero
-![image](https://note.youdao.com/favicon.ico)
+![image](https://github.com/Pirahno/dota2-data-analyse/blob/master/hero-cloud.png)
 2. use networkx make relationship of each hero
-![image](https://note.youdao.com/favicon.ico)
+![image](https://github.com/Pirahno/dota2-data-analyse/blob/master/hero-relationship.png)
 ## analyse 
 1. analyse some chat wheel in ti8
